@@ -22,5 +22,6 @@ a {
   body {
     color: white;
     background: black;
+    width: calc(10 - 5px);
   }
 }
